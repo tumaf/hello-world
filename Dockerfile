@@ -1,5 +1,5 @@
 FROM tomcat:latest
-LABEL "Project"="BlueVine"
+LABEL "Project"="BV"
 LABEL "Author"="Fadi Tuma"
 
 RUN rm -rf /usr/local/tomcat/webapps/*
